@@ -1,0 +1,25 @@
+:root{
+    --blue:#35404b;
+    --white:#ffffff;
+}
+body{
+    background-color: var(--blue);
+}
+h1{
+    color: var(--white);
+}
+h2{
+    border-bottom: 2px solid var(--blue);
+}
+.container{
+    color: var(--blue);
+    background-color: var(--white);
+    padding: 15px;
+}
+.col p{
+    color: var(--white);
+}
+.col h2{
+    color: chocolate;
+
+}
