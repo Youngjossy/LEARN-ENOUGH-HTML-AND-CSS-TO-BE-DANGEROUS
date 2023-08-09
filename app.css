@@ -15,6 +15,7 @@ h2{
     color: var(--blue);
     background-color: var(--white);
     padding: 15px;
+    height:30vw;
 }
 .col p{
     color: var(--white);
